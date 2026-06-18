@@ -4,7 +4,7 @@
 
 I'm Felix "failxontour". Nice to meet you! 😄
 
-I spend a lot of my time on free, libre, open-source software and open community projects, and you can find a lot of what I worked on here on GitHub or over on Codeberg.
+I spend a lot of my time on free, libre, open-source software and open community projects, and you can find a lot of what I worked on here on GitHub or over on [Codeberg](https://codeberg.org/failxontour).
 
 You can find all of my social media: [Gravatar](https://gravatar.com/failxontour)
 
@@ -28,6 +28,8 @@ You can find all of my social media: [Gravatar](https://gravatar.com/failxontour
 <p align="center">
 <a href="https://youtube.com/@failxontour"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
 <a href="https://discord.com/users/1208375012826808342"><img src="https://img.shields.io/badge/discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+Matrix
+
 </p>
 <img src="./img/rgb.png" alt="logo" width="100%">
 
@@ -48,7 +50,6 @@ You can find all of my social media: [Gravatar](https://gravatar.com/failxontour
 <h3 align="center">Software I've worked with</h3>
 <p align="center">
 <img src="https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white" alt="Adobe">
-<img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" alt="Blender">
 <img src="https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF" alt="GIMP">
 <img src="https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13" alt="Inkscape">
 <img src="https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B" alt="Krita">
@@ -60,11 +61,8 @@ You can find all of my social media: [Gravatar](https://gravatar.com/failxontour
 <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino">
 <img src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi" alt="Raspberry Pi">
 <img src="https://img.shields.io/badge/pihole-%2396060C.svg?style=for-the-badge&logo=pi-hole&logoColor=white" alt="Pi-Hole">
-<img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" alt="Trello">
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-<img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab">
-<img src="https://img.shields.io/badge/mercurial-999999.svg?style=for-the-badge&logo=mercurial&logoColor=white" alt="Mercurial">
 <img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="Windows Terminal">
 <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell">
 </p>
@@ -80,8 +78,7 @@ You can find all of my social media: [Gravatar](https://gravatar.com/failxontour
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery">
 <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown">
-<img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-<img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell scripts">
+<img src="https://img.shields.io/badge/smarty-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="Smarty">
 <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white" alt="WordPress">
 </p>
 <img src="./img/rgb.png" alt="logo" width="100%">
@@ -94,7 +91,7 @@ You can find all of my social media: [Gravatar](https://gravatar.com/failxontour
 </p>
 <img src="./img/rgb.png" alt="logo" width="100%">
 
-<h3 align="center">Ways to financially support me and my projects</h3>
+<h3 align="center">Ways to financially support me and my projects, not active</h3>
 <p align="center">
-<a href="https://paypal.me/failxontour"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal"></a>
+<img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal">
 </p>
