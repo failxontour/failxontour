@@ -1,7 +1,3 @@
-<p align="center">
-<a href="https://gravatar.com/failxontour"><img src="https://avatars.githubusercontent.com/u/228637610?v=4" alt="logo" width="60%"></a>
-</p>
-
 I'm Felix "failxontour". Nice to meet you! 😄
 
 I spend a lot of my time on free, libre, open-source software and open community projects, and you can find a lot of what I worked on here on GitHub or over on [Codeberg](https://codeberg.org/failxontour).
