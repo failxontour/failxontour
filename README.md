@@ -28,8 +28,7 @@ You can find all of my social media: [Gravatar](https://gravatar.com/failxontour
 <p align="center">
 <a href="https://youtube.com/@failxontour"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
 <a href="https://discord.com/users/1208375012826808342"><img src="https://img.shields.io/badge/discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
-Matrix
-
+<img src="https://img.shields.io/badge/Matrix-0078D4?style=for-the-badge&logo=matrix&logoColor=white" alt="Matrix">
 </p>
 <img src="./img/rgb.png" alt="logo" width="100%">
 
@@ -75,7 +74,6 @@ Matrix
 <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
 <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS">
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
-<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery">
 <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown">
 <img src="https://img.shields.io/badge/smarty-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="Smarty">
 <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white" alt="WordPress">
